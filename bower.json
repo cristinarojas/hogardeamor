@@ -1,0 +1,14 @@
+{
+  "name": "Hogar de Amor y Proteccion al niño - Sistema de control interno",
+  "version": "0.0.1",
+  "author": "Cristina Elizabeth Rojas zamora",
+  "license": "MIT",
+  "dependencies": {
+    "normalize-css": "latest",
+    "angularjs": "latest",
+    "requirejs": "latest",
+    "bootstrap": "latest",
+    "angular-route": "latest",
+    "angular-sanitize": "latest"
+  }
+}
